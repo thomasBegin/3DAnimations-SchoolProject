@@ -1,0 +1,6 @@
+#ifndef __bvhfolder_h_
+#define __bvhfolder_h_
+
+#define BVH_FOLDER "${CMAKE_CURRENT_SOURCE_DIR}/bvh-files/"
+
+#endif
